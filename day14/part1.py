@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 ROUNDED_ROCK = "O"
 CUBE_SHAPED_ROCK = "#"
 EMPTY_SPACE = "."
